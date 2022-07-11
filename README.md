@@ -1,5 +1,6 @@
 # amazon_clone_tut
 
+https://www.youtube.com/watch?v=ylJz7N-dv1E
 A new Flutter project.
 
 ## Getting Started
